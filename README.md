@@ -2,7 +2,7 @@
 
 ## This project is an exploratory data analysis into my Spotify streaming history for 2021. The goals of this project were to collect my own data, run an analysis with interactive charts, and find areas of optimization within my listening history.
 
-## I request that anyone viewing my ipynb file should do so in a google colab or jupyter notebook to experience the interactive charts!
+### I request that anyone viewing my ipynb file should download and open it in a google colab or jupyter notebook to experience the interactive charts!
 
 ### Steps Completed in Project:
 - Requested streaming history from Spotify (Spotify allow you to request your streaming history for 1 year)
@@ -25,14 +25,14 @@
 - I listened to a stream for longer, on average, in the mornings and on the weekends.
 
 ## Some cool charts:
-![Image 1]('readme images/newplot.png')
-![Image 2]('readme images/artist_wc.png')
-![Image 3]('readme images/newplot (1).png')
-![Image 4]('readme images/newplot (2).png')
-![Image 5]('readme images/newplot (3).png')
-![Image 6]('readme images/newplot (4).png')
-![Image 7]('readme images/newplot (5).png')
-![Image 8]('readme images/newplot (6).png')
+![Image 1](readme images/newplot.png)
+![Image 2](readme images/artist_wc.png)
+![Image 3](readme images/newplot (1).png)
+![Image 4](readme images/newplot (2).png)
+![Image 5](readme images/newplot (3).png)
+![Image 6](readme images/newplot (4).png)
+![Image 7](readme images/newplot (5).png)
+![Image 8](readme images/newplot (6).png)
 
 
 ## Next Steps:
@@ -40,4 +40,15 @@ After performing an EDA on my streaming history for 2021, it was clear that ther
 
 This next project will be an unsupervised learning project to cluster my saved songs into groups which can then be used to create playlists in my Spotify account. This will help meet my goal of maximizing listening time through the hypothesis that having playlists based on types of songs would allow me to narrow down my listening to be based on my mood but still allow me to have enough of my songs to shuffle through. Stay tuned for this next project on my github!
 
+## Resources
 
+Thanks to all of these articles and people that have made this project much easier to do!
+
+https://www.section.io/engineering-education/spotify-python-part-1/
+https://medium.com/@rafaelnduarte/how-to-retrieve-data-from-spotify-110c859ab304
+https://github.com/rafaelnduarte/Spotify_K-Means_Clustering/blob/master/Spotify_Clulstering.ipynb
+https://towardsdatascience.com/spotify-data-project-part-1-from-data-retrieval-to-first-insights-f5f819f8e1c3
+https://medium.com/web-mining-is688-spring-2021/preliminary-data-analysis-on-spotify-data-using-api-a84bb0aae00c
+https://datascientistdiary.com/index.php/2021/03/04/how-to-use-spotify-api-and-what-data-science-opportunities-can-it-open-up/
+https://jovian.ai/odiesta/spotify-streaming-history-exploratory-data-analysis-project
+https://medium.com/@maxtingle/getting-started-with-spotifys-api-spotipy-197c3dc6353b
