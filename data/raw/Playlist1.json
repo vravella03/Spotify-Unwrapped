@@ -1,0 +1,408 @@
+{
+  "playlists": [
+    {
+      "name": "Listening Quiz 2",
+      "lastModifiedDate": "2020-04-18",
+      "items": [
+        {
+          "track": {
+            "trackName": "In the Mood",
+            "artistName": "Glenn Miller",
+            "albumName": "Glenn Miller Jazz & Swing Retrospective",
+            "trackUri": "spotify:track:1zeaoDcrQFMkNjM8MuBfM0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "That's All",
+            "artistName": "Sister Rosetta Tharpe",
+            "albumName": "The Authorized Sister Rosetta Tharpe Collection",
+            "trackUri": "spotify:track:4fWjzZen5kGxuRUqjJCYR5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Choo - Choo Ch Boogie ( Louis Jordan)",
+            "artistName": "Louis Jordan",
+            "albumName": "Jumpin' Swing & Jive",
+            "trackUri": "spotify:track:0rCxzcMpy7bLoZfw0czXfh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Good Rockin’ Tonight",
+            "artistName": "Wynonie Harris",
+            "albumName": "Best Of The Best",
+            "trackUri": "spotify:track:5bx4CWCOHRsU8lvMcliWUs"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mama He Treats Your Daughter Mean",
+            "artistName": "Ruth Brown",
+            "albumName": "Ruth Brown",
+            "trackUri": "spotify:track:2yShRZBSQ7Pa7GPrdQBjhy"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Wild Side Of Life",
+            "artistName": "Hank Thompson",
+            "albumName": "Capitol Collectors Series",
+            "trackUri": "spotify:track:70xFNdc2nfXBF3uzwwSLwu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shake, Rattle and Roll",
+            "artistName": "Big Joe Turner",
+            "albumName": "Shake Rattle & Rock",
+            "trackUri": "spotify:track:7aLoa1F3EoM8AeC6Ao1RKz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shake, Rattle And Roll - Single Version",
+            "artistName": "Bill Haley & His Comets",
+            "albumName": "Best Of Bill Haley & His Comets: 20th Century Masters: The Millennium Collection",
+            "trackUri": "spotify:track:2McHF33C9Tx4lfwKBefE4n"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Maybellene - Single Version",
+            "artistName": "Chuck Berry",
+            "albumName": "20th Century Masters: The Millennium Collection: Best Of Chuck Berry",
+            "trackUri": "spotify:track:2CuYHU8wNcw6UCBkkWgMGx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Long Tall Sally",
+            "artistName": "Little Richard",
+            "albumName": "The Georgia Peach",
+            "trackUri": "spotify:track:6n3HCYuumzxe00S1fBNbUk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Be Cruel",
+            "artistName": "Elvis Presley",
+            "albumName": "Elvis' Golden Records",
+            "trackUri": "spotify:track:01u6AEzGbGbQyYVdxajxqk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hot Dog! That Made Him Mad - Remastered",
+            "artistName": "Wanda Jackson",
+            "albumName": "Rockin' With Wanda",
+            "trackUri": "spotify:track:7FSIjZL0LbWuWWsxfAm4Bq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Great Balls of Fire",
+            "artistName": "Jerry Lee Lewis",
+            "albumName": "Jerry Lee's Greatest",
+            "trackUri": "spotify:track:7ugeFdykRDPMMy6XPMdIdz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Twist",
+            "artistName": "Chubby Checker",
+            "albumName": "The Best Of Chubby Checker 1959-1963",
+            "trackUri": "spotify:track:3ohLnESFgYACPMCkoTOzqE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Be My Baby",
+            "artistName": "The Ronettes",
+            "albumName": "Be My Baby: The Very Best of The Ronettes",
+            "trackUri": "spotify:track:2G2YzndIA6jeWFPBXhUjh5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Keep Me Hangin' On",
+            "artistName": "The Supremes",
+            "albumName": "The Supremes Sing Holland, Dozier, Holland",
+            "trackUri": "spotify:track:4a01ClusxuZiloOK5UgLUn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "What's Going On",
+            "artistName": "Marvin Gaye",
+            "albumName": "What's Going On - 40th Anniversary",
+            "trackUri": "spotify:track:34b3a3Pz9Jlz0092LMyNAB"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Listening Quiz 1",
+      "lastModifiedDate": "2021-06-12",
+      "items": [
+        {
+          "track": {
+            "trackName": "7 rings",
+            "artistName": "Ariana Grande",
+            "albumName": "thank u, next",
+            "trackUri": "spotify:track:6ocbgoVGwYJhOv1GgI9NsF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Flood Blues",
+            "artistName": "Sippie Wallace",
+            "albumName": "Sippie Wallace Vol. 2 (1925-1945)",
+            "trackUri": "spotify:track:6QbAfwGhxcZz52cOlmwNpQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sisters",
+            "artistName": "The Halluci Nation",
+            "albumName": "Nation II Nation",
+            "trackUri": "spotify:track:7dFPCLpKwtLDs24ToHYVd8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Old Dan Tucker",
+            "artistName": "Pete Seeger",
+            "albumName": "American Favorite Ballads, Vols. 1-5 (Box Set)",
+            "trackUri": "spotify:track:3MQeuOJd1oG4s6tXxqc4LM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Get Off The Track",
+            "artistName": "Jesse Hutchinson",
+            "albumName": "Homespun America",
+            "trackUri": "spotify:track:0YAbEROajTizQyRAcYGhT9"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "After the Ball",
+            "artistName": "Joan Morris / William Bolcom",
+            "albumName": "After The Ball Plus Highlights From \"Vaudeville\"",
+            "trackUri": "spotify:track:4KxBnBP6cMTlkyaCAyl53D"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Maple Leaf Rag",
+            "artistName": "Scott Joplin",
+            "albumName": "Scott Joplin Plays the Entertainer, Pineapple Rag and the Best of His Rare Piano Roll Recordings",
+            "trackUri": "spotify:track:09Z8uIT1JizDvGeeRB2oUl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Maple Leaf Rag",
+            "artistName": "Jelly Roll Morton",
+            "albumName": "The Pearls",
+            "trackUri": "spotify:track:7xzRLS1crTGiCyoSi9njZo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heebie Jeebies",
+            "artistName": "Louis Armstrong",
+            "albumName": "This Is Jazz #1",
+            "trackUri": "spotify:track:44WgRCq0K8ZUAm70QMhFZV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Blue Heaven",
+            "artistName": "Gene Austin",
+            "albumName": "My Blue Heaven",
+            "trackUri": "spotify:track:4o2HHjAUxIdqT3cO9nHUgN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Brother, Can You Spare a Dime? (with Lenny Hayton & His Orchestra)",
+            "artistName": "Bing Crosby",
+            "albumName": "The Essential Bing Crosby (The Columbia Years)",
+            "trackUri": "spotify:track:6DaE48egpIqB7qTgUHxSG8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Somewhere Over The Rainbow_What A Wonderful World",
+            "artistName": "Israel Kamakawiwo'ole",
+            "albumName": "Facing Future",
+            "trackUri": "spotify:track:25U7raB3ZSszayTYClh4hF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Alexander's Ragtime Band",
+            "artistName": "Irving Berlin",
+            "albumName": "Back to Titanic - More Music from the Motion Picture",
+            "trackUri": "spotify:track:0GJCIJXek6xjUQh1S8NhQk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Roadrunner",
+            "artistName": "Migos",
+            "albumName": "Culture III",
+            "trackUri": "spotify:track:5DxA8tzKieKkOrvKnCrADi"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Liked from Radio",
+      "lastModifiedDate": "2020-03-10",
+      "items": [
+        {
+          "track": {
+            "trackName": "Yah Mean",
+            "artistName": "Playboi Carti",
+            "albumName": "Playboi Carti",
+            "trackUri": "spotify:track:5MUxrNd7Gr2HksLcAlB0IO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "20 Min",
+            "artistName": "Lil Uzi Vert",
+            "albumName": "Luv Is Rage 2",
+            "trackUri": "spotify:track:0uxSUdBrJy9Un0EYoBowng"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "wokeuplikethis*",
+            "artistName": "Playboi Carti",
+            "albumName": "Playboi Carti",
+            "trackUri": "spotify:track:59J5nzL1KniFHnU120dQzt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "New Choppa",
+            "artistName": "Playboi Carti",
+            "albumName": "Playboi Carti",
+            "trackUri": "spotify:track:30sc425JEvj3tgmGAKORea"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Space Cadet (feat. Gunna)",
+            "artistName": "Metro Boomin",
+            "albumName": "NOT ALL HEROES WEAR CAPES",
+            "trackUri": "spotify:track:1fewSx2d5KIZ04wsooEBOz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Give No Fxk",
+            "artistName": "Migos",
+            "albumName": "Give No Fxk",
+            "trackUri": "spotify:track:6ZelF5APDN5r6XnFqcnvWR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "High (feat. Elton John)",
+            "artistName": "Young Thug",
+            "albumName": "On the Run",
+            "trackUri": "spotify:track:7iMDaY1LnASwCk2uUpMtii"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
