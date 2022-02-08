@@ -25,14 +25,14 @@
 - I listened to a stream for longer, on average, in the mornings and on the weekends.
 
 ## Some cool charts:
-![Image 1](readme images/newplot.png)
-![Image 2](readme images/artist_wc.png)
-![Image 3](readme images/newplot (1).png)
-![Image 4](readme images/newplot (2).png)
-![Image 5](readme images/newplot (3).png)
-![Image 6](readme images/newplot (4).png)
-![Image 7](readme images/newplot (5).png)
-![Image 8](readme images/newplot (6).png)
+![Image 1](https://github.com/vravella03/Spotify-Unwrapped/blob/main/readme%20images/newplot.png)
+![Image 2](https://github.com/vravella03/Spotify-Unwrapped/blob/main/readme%20images/artist_wc.png)
+![Image 3](https://github.com/vravella03/Spotify-Unwrapped/blob/main/readme%20images/newplot%20(1).png)
+![Image 4](https://github.com/vravella03/Spotify-Unwrapped/blob/main/readme%20images/newplot%20(2).png)
+![Image 5](https://github.com/vravella03/Spotify-Unwrapped/blob/main/readme%20images/newplot%20(3).png)
+![Image 6](https://github.com/vravella03/Spotify-Unwrapped/blob/main/readme%20images/newplot%20(4).png)
+![Image 7](https://github.com/vravella03/Spotify-Unwrapped/blob/main/readme%20images/newplot%20(5).png)
+![Image 8](https://github.com/vravella03/Spotify-Unwrapped/blob/main/readme%20images/newplot%20(6).png)
 
 
 ## Next Steps:
@@ -44,11 +44,11 @@ This next project will be an unsupervised learning project to cluster my saved s
 
 Thanks to all of these articles and people that have made this project much easier to do!
 
-https://www.section.io/engineering-education/spotify-python-part-1/
-https://medium.com/@rafaelnduarte/how-to-retrieve-data-from-spotify-110c859ab304
-https://github.com/rafaelnduarte/Spotify_K-Means_Clustering/blob/master/Spotify_Clulstering.ipynb
-https://towardsdatascience.com/spotify-data-project-part-1-from-data-retrieval-to-first-insights-f5f819f8e1c3
-https://medium.com/web-mining-is688-spring-2021/preliminary-data-analysis-on-spotify-data-using-api-a84bb0aae00c
-https://datascientistdiary.com/index.php/2021/03/04/how-to-use-spotify-api-and-what-data-science-opportunities-can-it-open-up/
-https://jovian.ai/odiesta/spotify-streaming-history-exploratory-data-analysis-project
-https://medium.com/@maxtingle/getting-started-with-spotifys-api-spotipy-197c3dc6353b
+- https://www.section.io/engineering-education/spotify-python-part-1/
+- https://medium.com/@rafaelnduarte/how-to-retrieve-data-from-spotify-110c859ab304
+- https://github.com/rafaelnduarte/Spotify_K-Means_Clustering/blob/master/Spotify_Clulstering.ipynb
+- https://towardsdatascience.com/spotify-data-project-part-1-from-data-retrieval-to-first-insights-f5f819f8e1c3
+- https://medium.com/web-mining-is688-spring-2021/preliminary-data-analysis-on-spotify-data-using-api-a84bb0aae00c
+- https://datascientistdiary.com/index.php/2021/03/04/how-to-use-spotify-api-and-what-data-science-opportunities-can-it-open-up/
+- https://jovian.ai/odiesta/spotify-streaming-history-exploratory-data-analysis-project
+- https://medium.com/@maxtingle/getting-started-with-spotifys-api-spotipy-197c3dc6353b
